@@ -1,1 +1,63 @@
-!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1> html structures </h1>
+     <h1 title="This is a heading">About Trip</h1>
+    <p title="This is a paragraph">Last month I went Gokarna.It was relaxing of our daily routine.<br>I enjoyed a lot in the beach
+     <hr>I would like to visit again with my friends</hr></p>
+     <h2>My favorite poem</h2>
+     <pre>
+        Sky so blue,
+        clouds so white,
+        sunshine warms
+        the world so bright.
+     </pre>
+  <h3>Styling css attributes</h3>
+  <h1 style="background-color:palegoldenrod;">Welcome to the new world</h1>
+  <p style="background-color: tomato;">This is a para</p> 
+  <h1 style="background-color: rgb(85, 68, 50);">Today is a sunday</h1>
+  <h1 style="font-family:'Franklin Gothic Medium',;">Yesterday GT won the match</h1>
+  <h1 style="text-align:center;">CSS attributes</h1>
+  <p style="text-align:right;">css attributes</p>
+  <hr>
+  <h1> formatting fun </h1>
+  <b>Week Days</b>
+  <strong>Tomorrow is Monday</strong>
+  <i>This text is italic</i>
+  <em>Modi is our prime minister</em>
+  <small>The word says only small</small>
+  <p>do not forget buy<mark>fruit</mark>today.</p>
+  <p>my favorite fruit is <del>apple</del>mango</p>
+  <p>2<sub>2</sup></p>
+  <p>5<sup>th</sub></p>
+  <h1>Quote and citation</h1>
+  <p>Here's a short quote: Learning never exhausts the mind."</p>
+  <p>Learning never exahusts the mind.-Leonardo da Vinci</p>
+  <p>We are learning <abbr title="Cascading style sheets">CSS</abbr>basics.</p>
+  <hr>
+  <address>
+    Written by:jhon Doe<br>
+        Email:Jhondoe@example.com<br>
+        location:Earth <br>
+    </address>
+    <hr>
+    <bdo dir="rtl">This sentence is reverced</bdo><br></bdo><br>
+    <hr>
+    <h1>Blank Target</h1>
+    <a href="https://W3Schools.in"target="_blank">Visit school website!</a>
+    <h2>self target</h2>
+    <a href="https://MDN Docs.in"target="_self">Visit school website!</a>
+    <h3>parent target</h3>
+     <a href="https://Example.edu.in"target="_parent">Visit school website!</a>
+    <h4>top target</h4>
+    <a href="https://Example.edu.in"target="_top">visit school website</a>
+    <hr>
+    <img src="c:\Users\gulag\Pictures\namitaaa\namitaaa.jpg" alt="A descriptive imag" width="300" height="200">
+    <hr>
+</body>
+</html>
